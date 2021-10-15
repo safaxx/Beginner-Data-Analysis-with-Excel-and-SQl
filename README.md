@@ -1,7 +1,7 @@
 Crimes in India Analysis
 
 Crime in India has been recorded since the British Raj, with comprehensive statistics now compiled annually by the National Crime Records Bureau(NCRB), under the Ministry of Home Affairs(MHA).
-This repository comprises of various facts and charts about different types of crimes that have taken place in India from the year 2001-2018.
+This repository comprises of various facts and charts about different types of crimes that have taken place in India from the year 2001-2010.
 The three crimes considered for this analysis are :
 1. Rape Cases 
 2. Auto Theft Cases 
